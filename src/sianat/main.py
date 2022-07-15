@@ -6,4 +6,7 @@ class sianat:
         self.y=2
         
 if __name__ == '__main__':
-    s = sianat()
+    pass
+
+
+
